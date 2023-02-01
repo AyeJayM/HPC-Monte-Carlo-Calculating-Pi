@@ -1,0 +1,25 @@
+Process 0 on cn19
+Process 3 on cn22
+Process 1 on cn20
+Process 2 on cn21
+
+Process 3 - startIndex 0 endIndex 249999
+Points Generated = 250000 : Points in Circle = 196334
+
+Process 2 - startIndex 0 endIndex 249999
+Points Generated = 250000 : Points in Circle = 196523
+
+Process 0 - startIndex 0 endIndex 249999
+Points Generated = 250000 : Points in Circle = 196281
+
+Process 1 - startIndex 0 endIndex 249999
+Points Generated = 250000 : Points in Circle = 196206
+
+Execution time (sec) = 0.036543 
+
+Total Points = 1000000 Points In Circle Area = 785344
+
+Ratio = 0.785344 
+Our Estimated Pi = 3.141376
+
+Pi Delta (Difference from true Pi) = 0.000217
